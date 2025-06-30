@@ -20,3 +20,6 @@ A simple weather application that fetches real-time weather data based on the ci
 
 ## 🌟 Author
 - GitHub: [bipinmahat1](https://github.com/bipinmahat1)
+
+## Co-Author
+- [Bipinmahat](https://github.com/bipinmahat)
